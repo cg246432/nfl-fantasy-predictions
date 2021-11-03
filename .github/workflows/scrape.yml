@@ -17,7 +17,7 @@ jobs:
             run: |-
               for i in {1999..2021};
               do
-                wget -O https://github.com/nflverse/nflfastR-data/blob/master/data/player_stats/player_stats_$i.csv.gz > data/player_stats_$i.csv.gz;
+                wget -O data/player_stats_$i.csv.gz https://github.com/nflverse/nflfastR-data/blob/master/data/player_stats/player_stats_$i.csv.gz;
               done
 
           - name: Commit and push data files
