@@ -13,12 +13,13 @@ jobs:
       steps:
           - name: Check out nfl players data from 1999 to present.
             uses: actions/checkout@v2
-          - name: Setup shell script
-            run: |-
-              chmod +x .github/download.sh
           - name: Download data
             run: |-
-              .github/download.sh
+              for i in {1999..2021};
+              do
+                wget https://github.com/nflverse/nflfastR-data/blob/master/data/player_stats/player_stats_$i.csv.gz > data/player_stats_$i.csv.gz;
+              done
+
           - name: Commit and push data files
             run: |-
               git config user.name "Automated"
