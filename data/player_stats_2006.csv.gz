@@ -24,7 +24,7 @@
     
     
     
-    <link crossorigin="anonymous" media="all" integrity="sha512-jdtbQr5ZSKZqID/c80i87Ml+YyEhYVd5sF9szeR+Xuvbfhi4yLJbEsSllzk0XRzcbWqD4tDtshhRo5IuJx4Mzw==" rel="stylesheet" href="https://github.githubassets.com/assets/github-8ddb5b42be5948a66a203fdcf348bcec.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-KJKdvk5zg50GC2GeGqmb437SOPVSKF02Auia+yd7VzG1l1zjo3EY9mG814tuDXhZAPXvjwmEvf9+B34kJzAqtQ==" rel="stylesheet" href="https://github.githubassets.com/assets/github-28929dbe4e73839d060b619e1aa99be3.css" />
 
   <script crossorigin="anonymous" defer="defer" integrity="sha512-/0zs/So9AxtDONKx324yW8s62PoPMx4Epxmk1aJmMgIYIKUkQg4YqlZQ06B4j0tSXQcUB8/zWiIkhLtVEozU/w==" type="application/javascript" src="https://github.githubassets.com/assets/environment-ff4cecfd.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-8p4kkx6e3xBq1g3NP0O3/AW/aiTQ+VRxYencIeMD8crx7AEwrOTV+XOL/UE8cw4vEvkoU/zzLEZ9cud0jFfI4w==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-frameworks-f29e2493.js"></script>
@@ -112,7 +112,7 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
 
-  <meta name="request-id" content="0448:290B:4CBF8D:763947:6182F65D" data-pjax-transient="true"/><meta name="html-safe-nonce" content="efd654cf3109f172761a2df970b88944a53d7e49e196d72c8a315732f9f7f8ae" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIwNDQ4OjI5MEI6NENCRjhEOjc2Mzk0Nzo2MTgyRjY1RCIsInZpc2l0b3JfaWQiOiI2OTA2ODExNzAwNDM3OTUwMzciLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="45e3038918ae9599c8125668ad75028c2d54e6c416be09de453c566e5f521d29" data-pjax-transient="true"/>
+  <meta name="request-id" content="0408:679E:3227D:994B8:61833807" data-pjax-transient="true"/><meta name="html-safe-nonce" content="04e062aafa87b9601b329926dd39650e94053c1ef28c0ec5f834dcd999f1a7d7" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIwNDA4OjY3OUU6MzIyN0Q6OTk0Qjg6NjE4MzM4MDciLCJ2aXNpdG9yX2lkIjoiNjE5NzgwNjA4NjU4MjY0Njc5MSIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="ee923e4d8e52635b68145316fa4322a357731223e565722e1c42424c6782adb3" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:258845533" data-pjax-transient>
 
@@ -154,9 +154,9 @@
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,FILE_UPLOAD_CURSOR_POSITION">
 
-  <meta http-equiv="x-pjax-version" content="89408a5ac57f5b71ed7ebb466b241a52be13289bf52f5580353d1ab3681a2237">
+  <meta http-equiv="x-pjax-version" content="04c51b21cb0440e0da005df2aba3601de2b8359a16f9567e17fc95dd11e06212">
   <meta http-equiv="x-pjax-csp-version" content="9ea82e8060ac9d44365bfa193918b70ed58abd9413362ba412abb161b3a8d1b6">
-  <meta http-equiv="x-pjax-css-version" content="8c75751aad52ee8322f8435d51506c1b59a636003602b767a0b479bddfe5cb22">
+  <meta http-equiv="x-pjax-css-version" content="e552cac5cfaeb5538341ee6d3fadecb13d11e94bb85762f850dc88ec326c3a7f">
   <meta http-equiv="x-pjax-js-version" content="3cad26b543586e12a4ad3073df6bdffcfe52ab9dafecfd0ffc60594d519fb9b5">
   
 
@@ -192,7 +192,7 @@
     
 
     <div class="position-relative js-header-wrapper ">
-      <a href="#start-of-content" class="px-2 py-4 color-bg-info-inverse color-text-white show-on-focus js-skip-to-content">Skip to content</a>
+      <a href="#start-of-content" class="px-2 py-4 color-bg-accent-emphasis color-text-white show-on-focus js-skip-to-content">Skip to content</a>
       <span data-view-component="true" class="progress-pjax-loader js-pjax-loader-bar Progress position-fixed width-full">
     <span style="width: 0%;" data-view-component="true" class="Progress-item progress-pjax-loader-bar color-bg-info-inverse"></span>
 </span>      
@@ -385,7 +385,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="HagNf0KGmiL8ZC4XRI5X/wD+nOuFrBGR7ovcKH6Gy6U9UvPZkrJF5BxUnHxvTitc5Zq6NFIx2jCw3ejUbS6/Dg==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="gOHhYGlVPYZO+tYWmLagZJdlYQmSf0pBIYR0//4jpMHKQZaxE6IgznE6NthzCOHcoMPTc84Nqgi5lvehVrqVVg==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -1082,7 +1082,7 @@
             <li class="d-block d-md-none">
               <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:258845533,&quot;originating_url&quot;:&quot;https://github.com/nflverse/nflfastR-data/blob/master/data/player_stats/player_stats_2006.csv.gz&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3fef49bbb2ba248a31971d3c6ae62c4a0a0aaf169be278391138760a8e24ba40" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/nflverse/nflfastR-data/find/master">
                 <span class="flex-auto">Go to file</span>
-                <span class="text-small color-text-secondary" aria-hidden="true">T</span>
+                <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>            </li>
             <li data-toggle-for="blob-more-options-details">
               <button data-toggle-for="jumpto-line-details-dialog" type="button" data-view-component="true" class="dropdown-item btn-link">
@@ -1090,7 +1090,7 @@
   
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Go to line</span>
-                  <span class="text-small color-text-secondary" aria-hidden="true">L</span>
+                  <span class="text-small color-fg-muted" aria-hidden="true">L</span>
                 </span>
 
   
@@ -1127,7 +1127,7 @@
 
         <div class="Box-body d-flex flex-items-center" >
           <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
-          <span class="color-text-danger h6 loader-error">Cannot retrieve contributors at this time</span>
+          <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
         </div>
 </include-fragment>    </div>
 
@@ -1175,7 +1175,7 @@
 </svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/nflverse/nflfastR-data/delete/master/data/player_stats/player_stats_2006.csv.gz" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="F3W8jYNxN0oGYZEcop9wIKFoAsSXEODo0S9cb/9MN9N6YFem6EwwM9XXRrLEmfH8iUqoQFLOCkV6UDKKTt0OmQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/nflverse/nflfastR-data/delete/master/data/player_stats/player_stats_2006.csv.gz" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="xFSkUgvhg9v5C2O0PEt+KCamLjP+kNnaKEqem66z2l4k/65CJV2ajaUZp/ip8x9um55wifQ8xbvId8l0fxyWxQ==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="You must be signed in to make or propose changes" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
