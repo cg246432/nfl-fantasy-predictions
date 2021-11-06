@@ -101,8 +101,8 @@
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/9e3ee4925d4b4923bfb1e9d53a026dabfb76b5ff260cc8836cbeee466708afb1/nflverse/nflfastR-data" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="nflfastR-data/player_stats_2006.csv.gz at master · nflverse/nflfastR-data" /><meta name="twitter:description" content="Data scraped from nflfastR package. Contribute to nflverse/nflfastR-data development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/9e3ee4925d4b4923bfb1e9d53a026dabfb76b5ff260cc8836cbeee466708afb1/nflverse/nflfastR-data" /><meta property="og:image:alt" content="Data scraped from nflfastR package. Contribute to nflverse/nflfastR-data development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="nflfastR-data/player_stats_2006.csv.gz at master · nflverse/nflfastR-data" /><meta property="og:url" content="https://github.com/nflverse/nflfastR-data" /><meta property="og:description" content="Data scraped from nflfastR package. Contribute to nflverse/nflfastR-data development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/e448e7442736310b7ce18b40c04e82ab64885c0336f31b4d0a84745f20d040b5/nflverse/nflfastR-data" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="nflfastR-data/player_stats_2006.csv.gz at master · nflverse/nflfastR-data" /><meta name="twitter:description" content="Data scraped from nflfastR package. Contribute to nflverse/nflfastR-data development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/e448e7442736310b7ce18b40c04e82ab64885c0336f31b4d0a84745f20d040b5/nflverse/nflfastR-data" /><meta property="og:image:alt" content="Data scraped from nflfastR package. Contribute to nflverse/nflfastR-data development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="nflfastR-data/player_stats_2006.csv.gz at master · nflverse/nflfastR-data" /><meta property="og:url" content="https://github.com/nflverse/nflfastR-data" /><meta property="og:description" content="Data scraped from nflfastR package. Contribute to nflverse/nflfastR-data development by creating an account on GitHub." />
     
 
 
@@ -112,7 +112,7 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
 
-  <meta name="request-id" content="0408:6075:121FC3:1E1DBC:6184891C" data-pjax-transient="true"/><meta name="html-safe-nonce" content="43c5976860bc39908cbef40f6e52f03fe6e1bf47e49bffd37ce843a64c4dcfcd" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIwNDA4OjYwNzU6MTIxRkMzOjFFMURCQzo2MTg0ODkxQyIsInZpc2l0b3JfaWQiOiI3Nzg1MzY3MzcyMzI3ODQ4MjIwIiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="10e2a9d00cce00fb1e4861a3fe1e8180a0239bf5366b91a0e0776e95bcd8e390" data-pjax-transient="true"/>
+  <meta name="request-id" content="0648:6484:F4550:28CC1C:6185D9B8" data-pjax-transient="true"/><meta name="html-safe-nonce" content="6610235b1ffcf6f9441252945648a16c2624ba8809885b612a3813110d502691" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIwNjQ4OjY0ODQ6RjQ1NTA6MjhDQzFDOjYxODVEOUI4IiwidmlzaXRvcl9pZCI6IjE3NzQxNzgxOTE5MTgwOTQ3NzYiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="b5890edf42032ebafd314ce9bc51e815acf0bc721bfbb209d8f8035055d67886" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:258845533" data-pjax-transient>
 
@@ -385,7 +385,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="u0hwudYsosikOjyrslu95FUcbXCcSj882ZUeVET8ozfC3o8pFdVzzpoBzEanQWP865zdc0z4ClCj/q4hFFFchw==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="0V8BjpIidROxOED184NjnLw+xF1lusa7/ErveQfths4Yujjqj4D+gK+goiFtSe6cxAA68Np9j4RtLoH7eGc2nQ==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -698,11 +698,11 @@
 </a>      <a
         class="social-count js-social-count"
         href="/nflverse/nflfastR-data/stargazers"
-        aria-label="192 users starred this repository"
+        aria-label="193 users starred this repository"
         data-singular-suffix="user starred this repository"
         data-plural-suffix="users starred this repository"
       >
-        192
+        193
       </a>
   </div>
 
@@ -908,7 +908,7 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/nflverse/nflfastR-data/blob/c42c1a86d2d95efd94866b37c3b8615ddbaeb101/data/player_stats/player_stats_2006.csv.gz">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/nflverse/nflfastR-data/blob/0f780b5981954ece0a95bde18f21ae265a49e8a2/data/player_stats/player_stats_2006.csv.gz">Permalink</a>
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
       
@@ -1115,7 +1115,7 @@
 
 </clipboard-copy>            </li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/nflverse/nflfastR-data/blob/c42c1a86d2d95efd94866b37c3b8615ddbaeb101/data/player_stats/player_stats_2006.csv.gz" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/nflverse/nflfastR-data/blob/0f780b5981954ece0a95bde18f21ae265a49e8a2/data/player_stats/player_stats_2006.csv.gz" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Copy permalink</span>
@@ -1186,7 +1186,7 @@
 </svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/nflverse/nflfastR-data/delete/master/data/player_stats/player_stats_2006.csv.gz" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="XTFHfUGmifPDj/RWmCAPQxXcFm4pq+fdSmV7fdSvbQKMbcFIP55HJ/ElAnoIUtXqdpC3zM/LK6PVexRzvre2fA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/nflverse/nflfastR-data/delete/master/data/player_stats/player_stats_2006.csv.gz" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="MfaM4zt1YUd1MNuk2eLlpNHPY6u1A8fjHpdF9T2dX2ulDOTWOWq8Vb48/rScZz/p6rWIipWZcWiuPJHD4nkVnw==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="You must be signed in to make or propose changes" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
