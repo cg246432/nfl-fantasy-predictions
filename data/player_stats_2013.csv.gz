@@ -101,8 +101,8 @@
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/2a4bac993c1925725fb02e64770fa7fe9ba367f38798561bb04fbcc90e270fdf/nflverse/nflfastR-data" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="nflfastR-data/player_stats_2013.csv.gz at master · nflverse/nflfastR-data" /><meta name="twitter:description" content="Data scraped from nflfastR package. Contribute to nflverse/nflfastR-data development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/2a4bac993c1925725fb02e64770fa7fe9ba367f38798561bb04fbcc90e270fdf/nflverse/nflfastR-data" /><meta property="og:image:alt" content="Data scraped from nflfastR package. Contribute to nflverse/nflfastR-data development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="nflfastR-data/player_stats_2013.csv.gz at master · nflverse/nflfastR-data" /><meta property="og:url" content="https://github.com/nflverse/nflfastR-data" /><meta property="og:description" content="Data scraped from nflfastR package. Contribute to nflverse/nflfastR-data development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/da7e57d168bb81b2a051152ef7a75e09e6d5e1651e039cefc61d131cdf44d866/nflverse/nflfastR-data" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="nflfastR-data/player_stats_2013.csv.gz at master · nflverse/nflfastR-data" /><meta name="twitter:description" content="Data scraped from nflfastR package. Contribute to nflverse/nflfastR-data development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/da7e57d168bb81b2a051152ef7a75e09e6d5e1651e039cefc61d131cdf44d866/nflverse/nflfastR-data" /><meta property="og:image:alt" content="Data scraped from nflfastR package. Contribute to nflverse/nflfastR-data development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="nflfastR-data/player_stats_2013.csv.gz at master · nflverse/nflfastR-data" /><meta property="og:url" content="https://github.com/nflverse/nflfastR-data" /><meta property="og:description" content="Data scraped from nflfastR package. Contribute to nflverse/nflfastR-data development by creating an account on GitHub." />
     
 
 
@@ -112,7 +112,7 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
 
-  <meta name="request-id" content="07C1:502B:E646C8:13B6EC1:61872CB9" data-pjax-transient="true"/><meta name="html-safe-nonce" content="b1ee035465749a61baf523a34aca55b60ddde7fc5371bc1b6be510cbd87ecaa8" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIwN0MxOjUwMkI6RTY0NkM4OjEzQjZFQzE6NjE4NzJDQjkiLCJ2aXNpdG9yX2lkIjoiMjQzODg2NjQ0MzQzMDI0ODI1IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="be98b512f282a23a1231bf11ada10a0504304657f6de7fcf503ebacdd6974320" data-pjax-transient="true"/>
+  <meta name="request-id" content="040F:3F2C:9D03A7:1347FA3:61887D64" data-pjax-transient="true"/><meta name="html-safe-nonce" content="01d67b02d91d88cd739c893abe2c6f857e399c8b52bfa0ca5611413cd11952ad" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIwNDBGOjNGMkM6OUQwM0E3OjEzNDdGQTM6NjE4ODdENjQiLCJ2aXNpdG9yX2lkIjoiNDAwODk2NDcxNjcyNjA5MTEwOCIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="0ca347be41a70f269974198cc96f5c2d376fdfe928cd788f0415ba81ad2354cd" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:258845533" data-pjax-transient>
 
@@ -385,7 +385,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="R+G2mDEz9+D9qp9aqti7elQT6M/Hq7qY+dCQA4xTs/G0/rY+EQco+0fxh3PONZejQui6HrVmV218NAN+srxo4g==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="i/Bu5MFuNo17xU5AenilaU8QMTmgGUvTbT8H1xSyhfx/PJl2M7lKMYylEIvsCZ0IS7lEHEXpTntFD/Bbvj9JlA==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -908,7 +908,7 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/nflverse/nflfastR-data/blob/b145b1a9d1a3351e9b597c6c4c9a8793746f7ef8/data/player_stats/player_stats_2013.csv.gz">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/nflverse/nflfastR-data/blob/9132cc221480278039d1caf4629cb9bdd8c4b614/data/player_stats/player_stats_2013.csv.gz">Permalink</a>
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
       
@@ -1115,7 +1115,7 @@
 
 </clipboard-copy>            </li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/nflverse/nflfastR-data/blob/b145b1a9d1a3351e9b597c6c4c9a8793746f7ef8/data/player_stats/player_stats_2013.csv.gz" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/nflverse/nflfastR-data/blob/9132cc221480278039d1caf4629cb9bdd8c4b614/data/player_stats/player_stats_2013.csv.gz" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Copy permalink</span>
@@ -1186,7 +1186,7 @@
 </svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/nflverse/nflfastR-data/delete/master/data/player_stats/player_stats_2013.csv.gz" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="4rHkf29pXK4Kwb51hXr0DTh9sX71yewvjMmXHXX4DC7JCCe7P0jzH4YDJSuapdTnoTFf9hXEskhRO9hfTV5i0A==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/nflverse/nflfastR-data/delete/master/data/player_stats/player_stats_2013.csv.gz" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="f2Mxa10ZbPFQ/9WGdS5ePSEqjq140T4eAkPfYxZTPn3cACD7Q7TVraOpP02e34tITlKdVz3bOcGJA2Bj+XisRw==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="You must be signed in to make or propose changes" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
