@@ -19,12 +19,12 @@
 
   <link crossorigin="anonymous" media="all" integrity="sha512-L06pZD/4Yecj8D8pY5aYfA7oKG6CI8/hlx2K9ZlXOS/j5TnYEjrusaVa9ZIb9O3/tBHmnRFLzaC1ixcafWtaAg==" rel="stylesheet" href="https://github.githubassets.com/assets/light-2f4ea9643ff861e723f03f296396987c.css" /><link crossorigin="anonymous" media="all" integrity="sha512-xcx3R1NmKjgOAE2DsCHYbus068pwqr4i3Xaa1osduISrxqYFi3zIaBLqjzt5FM9VSHqFN7mneFXK73Z9a2QRJg==" rel="stylesheet" href="https://github.githubassets.com/assets/dark-c5cc774753662a380e004d83b021d86e.css" /><link data-color-theme="dark_dimmed" crossorigin="anonymous" media="all" integrity="sha512-xlDV9el7Cjd+KTSbwspx+c8its28uxn++hLZ9pqYYo1zOVcpLPlElTo42iA/8gV3xYfLvgqRZ3dQPxHCu4UaOQ==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed-c650d5f5e97b0a377e29349bc2ca71f9.css" /><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" integrity="sha512-jkzjbgytRSAyC4EMcrdpez+aJ2CROSpfemvgO2TImxO6XgWWHNG2qSr2htlD1SL78zfuPXb+iXaVTS5jocG0DA==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-8e4ce36e0cad4520320b810c72b7697b.css" /><link data-color-theme="dark_colorblind" crossorigin="anonymous" media="all" integrity="sha512-FzS8HhJ7XSHmx/dBll4FYlvu+8eivvb7jnttZy9KM5plsMkgbEghYKJszrFFauqQvv7ezYdbk7v/d8UtdjG9rw==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-1734bc1e127b5d21e6c7f741965e0562.css" /><link data-color-theme="light_colorblind" crossorigin="anonymous" media="all" integrity="sha512-IpkvxndMpMcO4paMJl83lYTcy18jv2jqG7mHZnTfr9HRV09iMhuQ/HrE+4mQO2nshL7ZLejO1OiVNDQkyVFOCA==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-22992fc6774ca4c70ee2968c265f3795.css" />
   <link crossorigin="anonymous" media="all" integrity="sha512-4hzfg/znP4UxIOUt/r3SNYEZ6jBPJIS6PH4VC26tE0Nd4xAymMC3KXDaC9YITfG4fhyfxuB1YnDHo1H2iUwsfg==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-e21cdf83fce73f853120e52dfebdd235.css" />
-    <link crossorigin="anonymous" media="all" integrity="sha512-hY9cPg0yhzOEz+VzCWyvaD7AlZV7TmgCQdFioKUwVl3Uc7jY5jasMMQ3Nv2bzj/JG01ReXUHxmcGnk/EYdwmKQ==" rel="stylesheet" href="https://github.githubassets.com/assets/behaviors-858f5c3e0d32873384cfe573096caf68.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-oSd0mPHI8l3FuYBEig06npp8ATVm1cBmKfEoeoEeYObpP7wRu/dsg4j8RPjXy0gWMFzbMnCeeg6NTqSXLLt3Hw==" rel="stylesheet" href="https://github.githubassets.com/assets/behaviors-a1277498f1c8f25dc5b980448a0d3a9e.css" />
     
     
     
     
-    <link crossorigin="anonymous" media="all" integrity="sha512-5F1+i9sM/Bb3LnUtTfFBD/BO+o9/A/e8flUJj8Tb2C4nJseqm2dXuwrFTr3B7mHCsIPaCNzp/tZUMWeqfeEQvg==" rel="stylesheet" href="https://github.githubassets.com/assets/github-e45d7e8bdb0cfc16f72e752d4df1410f.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-N0jE8W5T6P6M4+zgzBlfZZd6/xiPbYe7GrYhVn3s3QzT2J4VYUA67+JV9Md2wfhd7LhEsUbMD98s9U7jPYPUuw==" rel="stylesheet" href="https://github.githubassets.com/assets/github-3748c4f16e53e8fe8ce3ece0cc195f65.css" />
 
   <script crossorigin="anonymous" defer="defer" integrity="sha512-GCKGhAXfGKreHAinXWGlCzuvkEAQPL+EDKtDj8g6Bk19Hh0KBTFiHdA3xeDVe8zVqXPm78DprJbRV57gzZBwRQ==" type="application/javascript" src="https://github.githubassets.com/assets/environment-18228684.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-yxcBm6Vjgm/5GJEqyFmAQurm/vmzlef3m9q9hlcWD+zbmpGbYYWvtMvW/pxo6/QxynB5dv7gJenRoTVgf4etdg==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-frameworks-cb17019b.js"></script>
@@ -74,7 +74,7 @@
     <script crossorigin="anonymous" defer="defer" integrity="sha512-8uIQ5UjDEzJGvTTBAD1uwbSp+3EXA530Nz2cMXLRwcKwNCpherk27nV4Z/8jpQg2pBpz/nLjwiKhS6OozpAVTg==" type="application/javascript" data-module-id="./chunk-pulse-authors-graph-element.js" data-src="https://github.githubassets.com/assets/chunk-pulse-authors-graph-element-f2e210e5.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-coojJ/UNFlaRrR+2TSkiopwWNtzkl/wFumM3x3QpZ4V00b3rCau/Ttr8nZMNskWnhd99w5K7mbCqklgWKalDgw==" type="application/javascript" data-module-id="./chunk-stacks-input-config-view.js" data-src="https://github.githubassets.com/assets/chunk-stacks-input-config-view-728a2327.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-oPKE/9fWau7I5ukozek/dky6L1Htp0AiiYVvJNEcghSu6lld7jT25NB3EeIdkU1WlcpgnzQ+fI42ry1rolPqbg==" type="application/javascript" data-module-id="./chunk-community-contributions.js" data-src="https://github.githubassets.com/assets/chunk-community-contributions-a0f284ff.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-SENXTxOX1mCsezrybSOmDYn7XMF/21STpaPr4G2RRPsyGp94i/wltoJlk47C3IA/8MoIxk7wIZqEgSn0vj0KSA==" type="application/javascript" data-module-id="./chunk-discussion-page-views.js" data-src="https://github.githubassets.com/assets/chunk-discussion-page-views-4843574f.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-GAr0EKthzUvDEGw6T4LsBXMuYhVHUe+lNf12hmF8/Lr0wN/BZs7wsqES4z0qs+MuDoJjVuIA7BJerWggTIhKqg==" type="application/javascript" data-module-id="./chunk-discussion-page-views.js" data-src="https://github.githubassets.com/assets/chunk-discussion-page-views-180af410.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-wGXIyqDuvhZzpOk836DLhw4YHt/mNh/bn7FcMYRVPU3Z1b8sB1JxnNUnYc6Rm8YtUkBnBlkVODj46SjZYOSQew==" type="application/javascript" data-module-id="./chunk-discussions-daily-contributors.js" data-src="https://github.githubassets.com/assets/chunk-discussions-daily-contributors-c065c8ca.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-6q+hClGdfvJ4mBrxAlQKqSZgo4xh3DbyqX/GBKyrQnb0UR4rNcWGQiaRaCnGm0ALLjPk1XNNCz8s7pDXEdMYrQ==" type="application/javascript" data-module-id="./chunk-discussions-new-contributors.js" data-src="https://github.githubassets.com/assets/chunk-discussions-new-contributors-eaafa10a.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-VeQi38hQFT2oKliPhoJ0mudIx23Osdjw8Y468QxhBqX0b6hOC6BBZZQr+bBPig5u/Vvl3ly+u3ACWBmXfP7Tdg==" type="application/javascript" data-module-id="./chunk-tweetsodium.js" data-src="https://github.githubassets.com/assets/chunk-tweetsodium-55e422df.js"></script>
@@ -91,7 +91,7 @@
     <script crossorigin="anonymous" defer="defer" integrity="sha512-8NWmKXh96TMxAyNDrhoc2YIl4tXPe6v+DUuO6nPOP2C0WiUObu6+6q5PJPqzqi/BJqMHMHPiIMCFUEu/v6LikQ==" type="application/javascript" data-module-id="./chunk-webgl-warp.js" data-src="https://github.githubassets.com/assets/chunk-webgl-warp-f0d5a629.js"></script>
   
   <script crossorigin="anonymous" defer="defer" integrity="sha512-GBlegh9b9Zm8s+yRFiRNhJg09OxAqlOU4XA1zHGZbYTD+DaLps6fNHcqhjRRuKcEK/Xo9BlcSkYVr4HCW9B2jA==" type="application/javascript" src="https://github.githubassets.com/assets/repositories-18195e82.js"></script>
-<script crossorigin="anonymous" defer="defer" integrity="sha512-2cGbZ+odRG2o6raoQtBlhLBXQUN4OES5zgr5Lfimc4pWszDNFL2h8oWYYhpS+Oh9jTzk2bR3vWXV2k+HnxHo9Q==" type="application/javascript" src="https://github.githubassets.com/assets/diffs-d9c19b67.js"></script>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-BGAnrgsVTqUuppIPCCcmSJfBHTIj7D47biKPul2uQBZ2o/iRght5PnFvjix4IxHgDHBIc9mJG+L32gUtnIAmTg==" type="application/javascript" src="https://github.githubassets.com/assets/diffs-046027ae.js"></script>
 
   <meta name="viewport" content="width=device-width">
   
@@ -101,8 +101,8 @@
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/da7e57d168bb81b2a051152ef7a75e09e6d5e1651e039cefc61d131cdf44d866/nflverse/nflfastR-data" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="nflfastR-data/player_stats_2003.csv.gz at master · nflverse/nflfastR-data" /><meta name="twitter:description" content="Data scraped from nflfastR package. Contribute to nflverse/nflfastR-data development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/da7e57d168bb81b2a051152ef7a75e09e6d5e1651e039cefc61d131cdf44d866/nflverse/nflfastR-data" /><meta property="og:image:alt" content="Data scraped from nflfastR package. Contribute to nflverse/nflfastR-data development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="nflfastR-data/player_stats_2003.csv.gz at master · nflverse/nflfastR-data" /><meta property="og:url" content="https://github.com/nflverse/nflfastR-data" /><meta property="og:description" content="Data scraped from nflfastR package. Contribute to nflverse/nflfastR-data development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/de61322b78f4c36ad235b210c70d018a0d41a3afc591e8fa7b08ab9e382f515c/nflverse/nflfastR-data" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="nflfastR-data/player_stats_2003.csv.gz at master · nflverse/nflfastR-data" /><meta name="twitter:description" content="Data scraped from nflfastR package. Contribute to nflverse/nflfastR-data development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/de61322b78f4c36ad235b210c70d018a0d41a3afc591e8fa7b08ab9e382f515c/nflverse/nflfastR-data" /><meta property="og:image:alt" content="Data scraped from nflfastR package. Contribute to nflverse/nflfastR-data development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="nflfastR-data/player_stats_2003.csv.gz at master · nflverse/nflfastR-data" /><meta property="og:url" content="https://github.com/nflverse/nflfastR-data" /><meta property="og:description" content="Data scraped from nflfastR package. Contribute to nflverse/nflfastR-data development by creating an account on GitHub." />
     
 
 
@@ -112,7 +112,7 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
 
-  <meta name="request-id" content="0405:1BD3:9A566F:12EC5D5:61887D62" data-pjax-transient="true"/><meta name="html-safe-nonce" content="34d270f2876f4b5142c588cfffca5ab5a0ce7a2a95d7d797eba4123bda22cdc7" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIwNDA1OjFCRDM6OUE1NjZGOjEyRUM1RDU6NjE4ODdENjIiLCJ2aXNpdG9yX2lkIjoiMzAxODk2NzM2MzM1OTM3NDY5MCIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="2cb51847f6d048dafa794ff50d5770aa4617a38ed248968dfd19bbffd281a97e" data-pjax-transient="true"/>
+  <meta name="request-id" content="07C5:20E6:1DB608:2336B6:6189CEE5" data-pjax-transient="true"/><meta name="html-safe-nonce" content="3cebbf8f2b518e3a6d87583ed19d85ab4ca95c28ffdd53a092ae878e5faab95d" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIwN0M1OjIwRTY6MURCNjA4OjIzMzZCNjo2MTg5Q0VFNSIsInZpc2l0b3JfaWQiOiIxODk2NjcyODAyMzg4OTU0ODUzIiwicmVnaW9uX2VkZ2UiOiJzZWEiLCJyZWdpb25fcmVuZGVyIjoic2VhIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="4550f5c5357d49f37b5d0f6af98474e02660ad0991bfa6d52333ba103085e25f" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:258845533" data-pjax-transient>
 
@@ -154,9 +154,9 @@
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,FILE_UPLOAD_CURSOR_POSITION">
 
-  <meta http-equiv="x-pjax-version" content="fe55eb1c97984569bb12131ac8632f7af3485b0309e38941cd8b83d1c9d0dd68">
+  <meta http-equiv="x-pjax-version" content="2f99b421b7d4783f16c6ad12c271430cb2f67f51cb860588e52656458cec5c05">
   <meta http-equiv="x-pjax-csp-version" content="9ea82e8060ac9d44365bfa193918b70ed58abd9413362ba412abb161b3a8d1b6">
-  <meta http-equiv="x-pjax-css-version" content="2e39f8bc5d06f2f3e291bb5f216e5655ee9e78e533a1b88c9eca99c84426ab16">
+  <meta http-equiv="x-pjax-css-version" content="07fd4dffe4cfce2a675de7609ae1286bceed4c4a4c65f8c88a697f9749f606c2">
   <meta http-equiv="x-pjax-js-version" content="ffd7f50db7548cfecde71476e68eb2c952eefe8f794809e08062d1c7c61cedf1">
   
 
@@ -385,7 +385,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="u2INu13aPu9luLXr73kM/zeY+Fo+qw3HrtqBVcTEKdVxuyO7sHGzsKugGn8ZTd/1Fm6C9vCaTK0exY262ScxwQ==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="wwdzcLNsjPhKVJeM2VmMmc5LeO2tJHvZrWXxDXWeYD/C9XayJ4xF9asKl4nvg1DAod4/6WTCHxs7hFEv32WURQ==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -908,7 +908,7 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/nflverse/nflfastR-data/blob/9132cc221480278039d1caf4629cb9bdd8c4b614/data/player_stats/player_stats_2003.csv.gz">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/nflverse/nflfastR-data/blob/4c430b93f03020c3d36cf8a4220f133ab5af8a6c/data/player_stats/player_stats_2003.csv.gz">Permalink</a>
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
       
@@ -1115,7 +1115,7 @@
 
 </clipboard-copy>            </li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/nflverse/nflfastR-data/blob/9132cc221480278039d1caf4629cb9bdd8c4b614/data/player_stats/player_stats_2003.csv.gz" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/nflverse/nflfastR-data/blob/4c430b93f03020c3d36cf8a4220f133ab5af8a6c/data/player_stats/player_stats_2003.csv.gz" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Copy permalink</span>
@@ -1186,7 +1186,7 @@
 </svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/nflverse/nflfastR-data/delete/master/data/player_stats/player_stats_2003.csv.gz" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="Wpz2zRPtjuy1biYwaYKCPXFxFzGq7KthODPv9OcSFEjvQJHAWKduX4WqoK3pnlHXi0UEhe9pXkMuHoqD4Wlpbw==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/nflverse/nflfastR-data/delete/master/data/player_stats/player_stats_2003.csv.gz" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="eT0xw9irj5/cFJdKt5EaiwCiFJt5PhHuY09+lM/zjuYqZDw6awUPBTJXJrYZSxVMWAuKPt5s83FaPeYnoTatew==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="You must be signed in to make or propose changes" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
